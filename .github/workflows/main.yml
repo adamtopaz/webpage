@@ -8,9 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Nothing to see here...
+      - name: Update
         run: |
-          sudo apt-get install pandoc
+          sudo apt-get install pandoc -qq > /dev/null
           pandoc -i index.md -o docs/index.html --standalone
           git config --global user.name "CI[bot]"
           git config --global user.email "CI[bot]@GH"
