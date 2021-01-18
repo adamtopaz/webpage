@@ -12,8 +12,8 @@ jobs:
         run: |
           sudo apt-get install pandoc
           pandoc -i index.md -o docs/index.html --standalone
-          git config --global user.name "${{ secrets.GH_USER }}"
-          git config --global user.email "${{ secrets.GH_MAIL }}"
+          git config --global user.name "CI[bot]"
+          git config --global user.email "CI[bot]@GH"
           git add .
           git commit -am "Update index.html"
           git push
