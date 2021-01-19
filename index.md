@@ -46,5 +46,6 @@ Canada T6G 2G1
 ## Research
 
 My papers are all available on the [arXiv](https://arxiv.org/search/?searchtype=author&query=Topaz%2C+A).
+Here is my listing on [mathscinet](https://mathscinet.ams.org/mathscinet/search/authors.html?authorName=1051144&Submit=Search).
 
 [Top](#)
