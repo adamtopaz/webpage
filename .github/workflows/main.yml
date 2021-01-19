@@ -11,7 +11,8 @@ jobs:
       - name: Update
         run: |
           sudo apt-get install pandoc -qq > /dev/null
-          pandoc -i index.md -o docs/index.html --standalone
+          rsync static/* docs/static/
+          pandoc -i index.md -o docs/index.html --css static/main.css --standalone
           git config --global user.name "CI[bot]"
           git config --global user.email "CI[bot]@GH"
           git add .
