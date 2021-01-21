@@ -87,7 +87,7 @@ Here is my listing on [mathscinet](https://mathscinet.ams.org/mathscinet/search/
 
 - A. Topaz. *On the (generic) cohomology of function fields.*
   In Overwolfach Reports: Field Arithmetic (2018).
-- A. Topaz. *n Milnor K-groups of Function Fields.*
+- A. Topaz. *On Milnor K-groups of Function Fields.*
   In Oberwolfach Reports: Valuation Theory and its Applications (2014).
 - A. Topaz. *Detecting Valuations Using Small Galois Groups.*
   Valuation Theory in Interaction (Proceedings of the 2nd International Conference on Valuation Theory).
