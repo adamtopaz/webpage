@@ -60,7 +60,7 @@ Here is my listing on [mathscinet](https://mathscinet.ams.org/mathscinet/search/
 - J. Bell, R. Moosa and A. Topaz. *Invariant Hypersurfaces.*
   To appear in J. Inst. Math. Jussieu (2020).
   [arXiv](https://arxiv.org/abs/1812.08346) [DOI](https://doi.org/10.1017/S1474748020000262)
-- P. Guillot, J. Mináč and A. Topaz. *Four-fold Massey products in Galois cohomology.*
+- P. Guillot, J. Mináč and A. Topaz. Appendix by O. Wittenberg. *Four-fold Massey products in Galois cohomology.*
   Compositio Mathematica (2018) 154 (9), 1921-1959.
   [arXiv](https://arxiv.org/abs/1610.05748) [DOI](https://doi.org/10.1112/S0010437X18007297)
 - A. Topaz. *The Galois action on geometric lattices and the mod-$\ell$ I/OM.*
