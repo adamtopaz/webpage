@@ -65,7 +65,7 @@ Here is my listing on [mathscinet](https://mathscinet.ams.org/mathscinet/search/
   [arXiv](https://arxiv.org/abs/1610.05748) [DOI](https://doi.org/10.1112/S0010437X18007297)
 - A. Topaz. *The Galois action on geometric lattices and the mod-$\ell$ I/OM.*
   Invent. Math. (2018) 213 (2), 371-459.
-  [Jounral (open)](https://doi.org/10.1007/s00222-018-0792-2)
+  [Journal (open)](https://doi.org/10.1007/s00222-018-0792-2)
 - A. Topaz. *Abelian-by-Central Galois Groups I: A Formal Description.*
   Trans. Amer. Math. Soc. (2017) 368, pg. 2721-2745.
   [arXiv](http://arxiv.org/abs/1310.5613) [Journal](http://www.ams.org/journals/tran/0000-000-00/S0002-9947-2016-06740-9/)
