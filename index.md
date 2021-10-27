@@ -87,6 +87,8 @@ Here is my listing on [mathscinet](https://mathscinet.ams.org/mathscinet/search/
 
 ### Other
 
+- A. Topaz. *A linear variant of GT (joint with F. Pop)."
+  In Overwolfach Reports: Homotopic and Geometric Galois Theory (2021).
 - A. Topaz. *On the (generic) cohomology of function fields.*
   In Overwolfach Reports: Field Arithmetic (2018).
 - A. Topaz. *On Milnor K-groups of Function Fields.*
