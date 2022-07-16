@@ -52,13 +52,14 @@ Here is my listing on [mathscinet](https://mathscinet.ams.org/mathscinet/search/
   [arXiv](https://arxiv.org/abs/2104.10504)
 - A. Topaz. *Recovering function fields from their integral $\ell$-adic cohomology with the Galois action.*
   [arXiv](https://arxiv.org/abs/1910.03563)
-- A. Topaz. *A Torelli Theorem for Higher-Dimensional Function Fields.*
-  [arXiv](https://arxiv.org/abs/1705.01084)
 
 ### Accepted/Published
 
+- A. Topaz. *A Torelli-like theorem for higher-dimensional function fields.*
+  To appear in JEMS (2022).
+  [arXiv](https://arxiv.org/abs/1705.01084)
 - J. Bell, R. Moosa and A. Topaz. *Invariant Hypersurfaces.*
-  To appear in J. Inst. Math. Jussieu (2020).
+  J. Inst. Math. Jussieu 21 (2022), no. 2, 713–739.
   [arXiv](https://arxiv.org/abs/1812.08346) [DOI](https://doi.org/10.1017/S1474748020000262)
 - P. Guillot, J. Mináč and A. Topaz. Appendix by O. Wittenberg. *Four-fold Massey products in Galois cohomology.*
   Compositio Mathematica (2018) 154 (9), 1921-1959.
