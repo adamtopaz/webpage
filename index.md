@@ -41,6 +41,12 @@ Canada T6G 2G1
 
 [Top](#)
 
+## Formalization of pure mathematics
+
+A large part of my work since 2020 has been related to the formalization of pure mathematics, primarily using the [Lean interactive theorem prover](http://leanprover.github.io/).
+I am a maintainer of [mathlib](https://github.com/leanprover-community/mathlib), an open-source library of Lean3 formalized pure mathematics.
+I am also one of the primary members of the [Liquid Tensor Experiment](https://github.com/leanprover-community/lean-liquid), which was [completed as of 2022-07-14](https://leanprover-community.github.io/blog/posts/lte-final/).
+
 ## Research
 
 My papers are all available on the [arXiv](https://arxiv.org/search/?searchtype=author&query=Topaz%2C+A).
