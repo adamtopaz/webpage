@@ -57,6 +57,8 @@ Here is my listing on [mathscinet](https://mathscinet.ams.org/mathscinet/search/
 
 ### Preprints
 
+- A. Topaz. *Alternating pairs with coefficients.*
+  [PDF](https://raw.githubusercontent.com/adamtopaz/CoeffAltPairs/main/main.pdf)
 - F. Pop and A. Topaz. *A linear variant of GT.*
   [arXiv](https://arxiv.org/abs/2104.10504)
 - A. Topaz. *Recovering function fields from their integral $\ell$-adic cohomology with the Galois action.*
