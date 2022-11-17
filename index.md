@@ -45,7 +45,7 @@ Canada T6G 2G1
 ## Formalization of pure mathematics
 
 A large part of my work since 2020 has been related to the formalization of pure mathematics, primarily using the [Lean interactive theorem prover](http://leanprover.github.io/).
-I am one of the maintainers of [mathlib](https://github.com/leanprover-community/mathlib), an open-source library of Lean3 formalized pure mathematics built by the [leanprover community](https://leanprover-community.github.io/).
+I am one of the maintainers of [mathlib](https://github.com/leanprover-community/mathlib), the mathematics library of Lean3, which is built by the [leanprover community](https://leanprover-community.github.io/).
 I am also a primary member of the [Liquid Tensor Experiment](https://github.com/leanprover-community/lean-liquid), which was [completed as of 2022-07-14](https://leanprover-community.github.io/blog/posts/lte-final/).
 
 [Top](#)
