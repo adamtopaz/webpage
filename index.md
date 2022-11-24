@@ -49,6 +49,7 @@ I am one of the maintainers of [mathlib](https://github.com/leanprover-community
 I am also a primary member of the [Liquid Tensor Experiment](https://github.com/leanprover-community/lean-liquid), which was [completed as of 2022-07-14](https://leanprover-community.github.io/blog/posts/lte-final/).
 
 Here is a (incomplete) list of repositories containing formal mathematics where I was/am a contributor:
+
 - [The liquid tensor experiment.](https://github.com/leanprover-community/lean-liquid)
 - [Valuations and alternating pairs.](https://github.com/adamtopaz/lean-acl-pairs)
 - [Lean mathlib.](https://github.com/leanprover-community/mathlib)
