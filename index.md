@@ -63,6 +63,8 @@ Here is my listing on [mathscinet](https://mathscinet.ams.org/mathscinet/search/
 
 ### Preprints
 
+- A. Topaz. *Algebraic dependence and Milnor K-theory.*
+  [arXiv](https://arxiv.org/abs/2211.14665)
 - A. Topaz. *Alternating pairs with coefficients.*
   [PDF](https://raw.githubusercontent.com/adamtopaz/CoeffAltPairs/main/main.pdf)
 - F. Pop and A. Topaz. *A linear variant of GT.*
