@@ -60,6 +60,7 @@ Here is a (incomplete) list of repositories containing formal mathematics where 
 
 My papers are all available on the [arXiv](https://arxiv.org/search/?searchtype=author&query=Topaz%2C+A).
 Here is my listing on [mathscinet](https://mathscinet.ams.org/mathscinet/search/authors.html?authorName=1051144&Submit=Search).
+The `PDF` links below are always the most up-to-date.
 
 ### Preprints
 
