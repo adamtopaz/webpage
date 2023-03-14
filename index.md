@@ -23,12 +23,9 @@ I completed my Ph.D. in 2013 at the University of Pennsylvania.
 
 ### Email
 
-The best way to contact me is through email. My address follows the following format:
+The best way to contact me is through email, using the following address:
 
-```{surname}@u{Canadian province}.ca```
-
-Replace {foo} as necessary, and don’t forget the “u” after the “at” symbol. 
-Use only lowercase characters. 
+```topaz@ualberta.ca```
 
 ### Mailing Address
 
