@@ -25,7 +25,9 @@ I completed my Ph.D. in 2013 at the University of Pennsylvania.
 
 The best way to contact me is through email, using the following address:
 
-```topaz@ualberta.ca```
+```
+topaz@ualberta.ca
+```
 
 ### Mailing Address
 
