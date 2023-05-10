@@ -63,6 +63,8 @@ The `PDF` links below are always the most up-to-date.
 
 ### Preprints
 
+- J. Commelin and A. Topaz. *Abstraction boundaries and spec driven development in pure mathematics.*
+  [PDF](files/CommelinTopazAbstractionBoundaries.pdf)
 - A. Topaz. *Algebraic dependence and Milnor K-theory.*
   [arXiv](https://arxiv.org/abs/2211.14665) [PDF](https://raw.githubusercontent.com/adamtopaz/MilnorAlgDep/main/main.pdf)
 - A. Topaz. *Alternating pairs with coefficients.*
