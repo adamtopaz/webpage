@@ -53,6 +53,9 @@ Here is a (incomplete) list of repositories containing formal mathematics where 
 - [Valuations and alternating pairs.](https://github.com/adamtopaz/lean-acl-pairs)
 - [Lean mathlib.](https://github.com/leanprover-community/mathlib)
 
+In Fall 2023, I will be teaching a PIMS network-wide graduate course on the formalization of mathematics.
+Information about this course can be found on the [PIMS webpage](https://courses.pims.math.ca/), and some additional comments can be found in [this PDF](static/formalization_course.pdf).
+
 [Top](#)
 
 ## Research
