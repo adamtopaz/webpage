@@ -4,15 +4,12 @@ title: Adam Topaz
 
 - [About](#about)
 - [Contact](#contact)
-- [Formalization of pure mathematics](#formalization-of-pure-mathematics)
 - [Research](#research)
+- [Papers](#papers)
 
 ## About
 
-I am a mathematician working primarily in algebra and arithmetic / algebraic geometry.
-My research interests mostly revolve around Galois theory, with an emphasis on anabelian geometry and other related topics in arithmetic/algebraic geometry.
-I am also interested in various other topics, such as algebraic cycles, Hodge theory (Archimedean and p-adic), valuation theory, differential Galois theory, model theory of fields, etc.
-
+I am a mathematician working primarily in formalized mathematics, algebra, and arithmetic / algebraic geometry.
 I am currently an Assistant Professor in the department of [Mathematical and Statistical Sciences](https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html) at the University of Alberta.
 I previously held postdoctoral positions at Oxford and Berkeley.
 I completed my Ph.D. in 2013 at the University of Pennsylvania.
@@ -41,26 +38,33 @@ Canada T6G 2G1
 
 [Top](#)
 
-## Formalization of pure mathematics
+## Research
 
-A large part of my work since 2020 has been related to the formalization of pure mathematics, primarily using the [Lean interactive theorem prover](http://leanprover.github.io/).
-I am one of the maintainers of [mathlib](https://github.com/leanprover-community/mathlib), the mathematics library of Lean3, which is built by the [leanprover community](https://leanprover-community.github.io/).
-I am also a primary member of the [Liquid Tensor Experiment](https://github.com/leanprover-community/lean-liquid), which was [completed as of 2022-07-14](https://leanprover-community.github.io/blog/posts/lte-final/).
+### Formalization of pure mathematics
+
+A large part of my research since 2020 has been related to the formalization of pure mathematics, primarily using the [Lean interactive theorem prover](http://leanprover.github.io/).
+I am one of the maintainers of [mathlib](https://github.com/leanprover-community/mathlib4), the mathematics library of Lean, which is built by the [leanprover community](https://leanprover-community.github.io/).
+I am also a primary member of the [Liquid Tensor Experiment](https://github.com/leanprover-community/lean-liquid), which was [completed on 2022-07-14](https://leanprover-community.github.io/blog/posts/lte-final/).
 
 Here is a (incomplete) list of repositories containing formal mathematics where I was/am a contributor:
 
 - [The liquid tensor experiment.](https://github.com/leanprover-community/lean-liquid)
 - [Valuations and alternating pairs.](https://github.com/adamtopaz/lean-acl-pairs)
-- [Lean mathlib.](https://github.com/leanprover-community/mathlib)
+- [Lean mathlib.](https://github.com/leanprover-community/mathlib4)
 
-In Fall 2023, I will be teaching a PIMS network-wide graduate course on the formalization of mathematics.
+In Fall 2023, I taught a PIMS network-wide graduate course on the formalization of mathematics.
 Information about this course can be found on the [PIMS webpage](https://courses.pims.math.ca/), and some additional comments can be found in [this PDF](static/formalization_course.pdf).
+
+### Pure mathematics
+
+My research interests in pure mathematics mostly revolve around Galois theory, with an emphasis on anabelian geometry and other related topics in arithmetic/algebraic geometry.
+I am also interested in various other topics, such as algebraic cycles, Hodge theory (Archimedean and p-adic), valuation theory, differential Galois theory, model theory of fields, etc.
 
 [Top](#)
 
-## Research
+## Papers
 
-My papers are all available on the [arXiv](https://arxiv.org/search/?searchtype=author&query=Topaz%2C+A).
+My papers are mostly all available on the [arXiv](https://arxiv.org/search/?searchtype=author&query=Topaz%2C+A).
 Here is my listing on [mathscinet](https://mathscinet.ams.org/mathscinet/search/authors.html?authorName=1051144&Submit=Search).
 The `PDF` links below are always the most up-to-date.
 
@@ -112,11 +116,12 @@ The `PDF` links below are always the most up-to-date.
   [arXiv](http://arxiv.org/abs/1204.6611) [Journal](http://blms.oxfordjournals.org/content/46/1/143)
 
 ### Other
-
+- A. Topaz. *Algebraic dependence and Milnor K theory.* 
+  In Oberwolfach Reports: Arithmetic Homotopy and Galois Theory (2023).
 - A. Topaz. *A linear variant of GT (joint with F. Pop).*
-  In Overwolfach Reports: Homotopic and Geometric Galois Theory (2021).
+  In Oberwolfach Reports: Homotopic and Geometric Galois Theory (2021).
 - A. Topaz. *On the (generic) cohomology of function fields.*
-  In Overwolfach Reports: Field Arithmetic (2018).
+  In Oberwolfach Reports: Field Arithmetic (2018).
 - A. Topaz. *On Milnor K-groups of Function Fields.*
   In Oberwolfach Reports: Valuation Theory and its Applications (2014).
 - A. Topaz. *Detecting Valuations Using Small Galois Groups.*
