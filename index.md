@@ -11,8 +11,7 @@ title: Adam Topaz
 
 I am a mathematician working primarily in formalized mathematics, algebra, and arithmetic / algebraic geometry.
 I am currently an Assistant Professor in the department of [Mathematical and Statistical Sciences](https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html) at the University of Alberta.
-I previously held postdoctoral positions at Oxford and Berkeley.
-I completed my Ph.D. in 2013 at the University of Pennsylvania.
+I previously held postdoctoral positions at Oxford and Berkeley; I completed my Ph.D. in 2013 at the University of Pennsylvania.
 
 [Top](#)
 
