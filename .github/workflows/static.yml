@@ -22,16 +22,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Update
-        run: |
-          sudo apt-get install pandoc -qq > /dev/null
-          mkdir -p docs/static
-          sh build.sh
-  deploy:
+  build-and-deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -39,6 +30,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Update
+        run: |
+          sudo apt-get install pandoc -qq > /dev/null
+          mkdir -p docs/static
+          rsync static/* docs/static/
+          pandoc -i index.md -o docs/index.html --css static/main.css --standalone
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
