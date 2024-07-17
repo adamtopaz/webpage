@@ -29,6 +29,7 @@ jobs:
       - name: Update
         run: |
           sudo apt-get install pandoc -qq > /dev/null
+          mkdir -p docs/static
           sh build.sh
   deploy:
     environment:
@@ -43,7 +44,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './docs/'
+          path: docs
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
