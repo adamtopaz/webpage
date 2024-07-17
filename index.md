@@ -10,8 +10,9 @@ title: Adam Topaz
 ## About
 
 I am a mathematician working primarily in formalized mathematics, algebra, and arithmetic / algebraic geometry.
-I am currently an Assistant Professor in the department of [Mathematical and Statistical Sciences](https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html) at the University of Alberta.
-I previously held postdoctoral positions at Oxford and Berkeley; I completed my Ph.D. in 2013 at the University of Pennsylvania.
+I am currently an Associate Professor in the department of [Mathematical and Statistical Sciences](https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html) at the University of Alberta.
+I previously held postdoctoral positions at Oxford and Berkeley. 
+I completed my Ph.D. in 2013 at the University of Pennsylvania.
 
 [Top](#)
 
@@ -69,6 +70,8 @@ The `PDF` links below are always the most up-to-date.
 
 ### Preprints
 
+- D. Asgeirsson, R. Brasca, N Kuhn, F. A. E. Nuccio and A Topaz. *Categorical Foundations of Formalized Condensed Mathematics.*
+  [HAL](https://hal.science/hal-04633614v1)
 - A. Topaz. *Algebraic dependence and Milnor K-theory.*
   [PDF](https://raw.githubusercontent.com/adamtopaz/MilnorAlgDep/main/main.pdf)
 - A. Topaz. *Alternating pairs with coefficients.*
