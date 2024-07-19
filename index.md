@@ -71,7 +71,7 @@ The `PDF` links below are always the most up-to-date.
 ### Preprints
 
 - D. Asgeirsson, R. Brasca, N. Kuhn, F. A. E. Nuccio and A. Topaz. *Categorical Foundations of Formalized Condensed Mathematics.*
-  [HAL](https://hal.science/hal-04633614v1)
+  [arXiv](https://arxiv.org/abs/2407.12840)
 - A. Topaz. *Algebraic dependence and Milnor K-theory.*
   [PDF](https://raw.githubusercontent.com/adamtopaz/MilnorAlgDep/main/main.pdf)
 - A. Topaz. *Alternating pairs with coefficients.*
