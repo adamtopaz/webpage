@@ -71,8 +71,6 @@ The `PDF` links below are always the most up-to-date.
 
 ### Preprints
 
-- D. Asgeirsson, R. Brasca, N. Kuhn, F. A. E. Nuccio and A. Topaz. *Categorical Foundations of Formalized Condensed Mathematics.*
-  [arXiv](https://arxiv.org/abs/2407.12840)
 - A. Topaz. *Algebraic dependence and Milnor K-theory.*
   [PDF](https://raw.githubusercontent.com/adamtopaz/MilnorAlgDep/main/main.pdf)
 - A. Topaz. *Alternating pairs with coefficients.*
@@ -84,6 +82,9 @@ The `PDF` links below are always the most up-to-date.
 
 ### Accepted/Published
 
+- D. Asgeirsson, R. Brasca, N. Kuhn, F. A. E. Nuccio and A. Topaz. *Categorical Foundations of Formalized Condensed Mathematics.*
+  To appear in J. Symbolic Logic (2024).
+  [arXiv](https://arxiv.org/abs/2407.12840) [DOI](https://doi.org/10.1017/jsl.2024.69)
 - J. Commelin and A. Topaz. *Abstraction boundaries and spec driven development in pure mathematics.*
   To appear in Bull. Amer. Math. Soc. 
   [arXiv](http://arxiv.org/abs/2309.14870)
