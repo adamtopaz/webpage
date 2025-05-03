@@ -27,6 +27,9 @@ The best way to contact me is through email, using the following address:
 topaz@ualberta.ca
 ```
 
+It has come to my attention that someone has been sending emails which contain (LLM generated) text which claims to be written by me.
+Please note that the above is my public-facing email address, and emails which do not originate from this address are unlikely to have been written by me.
+
 ### Mailing Address
 
 ```
