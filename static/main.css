@@ -84,6 +84,39 @@ h1 {
   font-size: 2.5em;
 }
 
+#title-block-header .title {
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 0.75em;
+}
+
+#title-block-header + ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6em;
+}
+
+#title-block-header + ul li {
+  margin: 0;
+}
+
+#title-block-header + ul a {
+  display: inline-block;
+  padding: 0.35em 0.8em;
+  border: 1px solid #d7e3f5;
+  border-radius: 999px;
+  background: #f4f8ff;
+}
+
+#title-block-header + ul a:hover,
+#title-block-header + ul a:focus {
+  background: #e8f1ff;
+}
+
 h2 {
   font-size: 2em;
 }
