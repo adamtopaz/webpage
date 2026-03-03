@@ -11,4 +11,4 @@ fi
 
 mkdir -p docs/static
 rsync -a static/ docs/static/
-pandoc -i index.md -o docs/index.html --css static/main.css --standalone
+pandoc -i index.md -o docs/index.html --css static/main.css --standalone --section-divs

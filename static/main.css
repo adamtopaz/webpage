@@ -84,16 +84,22 @@ h1 {
   font-size: 2.5em;
 }
 
-#title-block-header .title {
+#title-block-header {
   text-align: center;
+}
+
+#title-block-header .title {
   margin-top: 0.5em;
   margin-bottom: 0.75em;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+  text-underline-offset: 0.14em;
 }
 
 #title-block-header + ul {
   list-style: none;
   padding: 0;
-  margin: 0 0 2em;
+  margin: 0 0 2.2em;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -105,24 +111,33 @@ h1 {
 }
 
 #title-block-header + ul a {
-  display: inline-block;
-  padding: 0.35em 0.8em;
-  border: 1px solid #d7e3f5;
-  border-radius: 999px;
-  background: #f4f8ff;
-}
-
-#title-block-header + ul a:hover,
-#title-block-header + ul a:focus {
-  background: #e8f1ff;
+  display: inline;
 }
 
 h2 {
   font-size: 2em;
+  text-align: center;
 }
 
 h3 {
   font-size: 1.5em;
+}
+
+section.level2 {
+  border: 1px solid #e3e7ee;
+  border-radius: 6px;
+  padding: 0.75em 1.1em 1.1em;
+  margin: 1.4em 0 1.8em;
+}
+
+section.level2 > h2 {
+  margin-top: 0;
+  text-decoration: underline;
+  text-underline-offset: 0.14em;
+}
+
+section.level2 > :last-child {
+  margin-bottom: 0;
 }
 
 h4 {
